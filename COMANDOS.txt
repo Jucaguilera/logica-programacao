@@ -1,0 +1,4 @@
+Comando para mudar permissões: chmod 644 calculadora.sh
+Execução do script: ./calculadora.sh
+Criação do script: nano calculadora.sh
+
